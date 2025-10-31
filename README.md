@@ -47,4 +47,4 @@ Screenshots of key pages are included for quick reference.
 ---
 
 ## 📌 Author
-Created by **Ska2201**.
+Created by **Sathis Kumar A**.
